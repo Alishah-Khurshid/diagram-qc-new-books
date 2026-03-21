@@ -75,6 +75,14 @@
         <mxCell id="ep-gD8Z4oOQkpoa1FzNP-35" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#FFFFFF,#99FF99);dashed=1;strokeWidth=2;strokeColor=light-dark(#000000,#9933FF);" value="&lt;span style=&quot;text-align: start; background-color: light-dark(rgb(255, 255, 255), rgb(255, 204, 255));&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px; color: light-dark(rgb(0, 245, 255), rgb(255, 0, 255));&quot;&gt;Error: Invalid Amount&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="55" width="182" x="604" y="467.5" as="geometry" />
         </mxCell>
+        <mxCell id="ep-gD8Z4oOQkpoa1FzNP-55" edge="1" parent="1" source="ep-gD8Z4oOQkpoa1FzNP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ep-gD8Z4oOQkpoa1FzNP-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep-gD8Z4oOQkpoa1FzNP-65" connectable="0" parent="ep-gD8Z4oOQkpoa1FzNP-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 0, 51)); background-color: light-dark(rgb(255, 255, 255), rgb(255, 153, 204)); font-size: 19px;&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0137" y="2" as="geometry">
+            <mxPoint x="2" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ep-gD8Z4oOQkpoa1FzNP-49" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFF2CC);" value="&lt;blockquote style=&quot;box-sizing: border-box; margin: 0px 0px 0.7rem; padding: 0px; line-height: 1.6; max-width: 800px;&quot;&gt;&lt;code style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box; margin: 0px; padding: 0.05rem 0.3rem; border-radius: 3px;&quot;&gt;&lt;font style=&quot;font-size: 13px; color: light-dark(rgb(0, 245, 255), rgb(204, 229, 255)); background-color: light-dark(rgb(255, 255, 255), rgb(166, 128, 184));&quot; face=&quot;Times New Roman&quot;&gt;Do Total Debits Equal Total Credits?&lt;/font&gt;&lt;/code&gt;&lt;/blockquote&gt;" vertex="1">
           <mxGeometry height="150" width="240" x="305" y="620" as="geometry" />
         </mxCell>
@@ -86,7 +94,15 @@
             <mxPoint x="23" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ep-gD8Z4oOQkpoa1FzNP-53" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#FFFFFF,#3333FF);dashed=1;strokeWidth=2;strokeColor=light-dark(#000000,#9933FF);size=0.054945054945054944;" value="&lt;blockquote style=&quot;text-align: justify; box-sizing: border-box; margin: 0px 0px 0.7rem; padding: 0px; line-height: 1.6; max-width: 800px; color: rgb(204, 218, 238); background-color: rgb(5, 8, 16);&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: light-dark(rgba(0, 245, 255, 0.08), rgba(0, 115, 123, 0.08)); color: light-dark(rgb(0, 245, 255), rgb(0, 115, 123));&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Error: Out of Balance&lt;/font&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; margin: 0px; padding: 0.05rem 0.3rem; font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 0.85em; background: rgba(0, 245, 255, 0.08); border-radius: 3px; color: rgb(0, 245, 255);&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ep-gD8Z4oOQkpoa1FzNP-68" edge="1" parent="1" source="ep-gD8Z4oOQkpoa1FzNP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="ep-gD8Z4oOQkpoa1FzNP-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="695" />
+              <mxPoint x="20" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ep-gD8Z4oOQkpoa1FzNP-53" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#FFFFFF,#3333FF);dashed=1;strokeWidth=2;strokeColor=light-dark(#000000,#9933FF);size=0.054945054945054944;" value="&lt;blockquote style=&quot;text-align: justify; box-sizing: border-box; margin: 0px 0px 0.7rem; padding: 0px; line-height: 1.6; max-width: 800px; color: rgb(204, 218, 238); background-color: rgb(5, 8, 16);&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: light-dark(rgba(0, 245, 255, 0.08), rgba(0, 115, 123, 0.08)); color: light-dark(rgb(0, 245, 255), rgb(0, 115, 123));&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Error: Out of Balance&lt;/font&gt;&lt;/span&gt;&lt;/blockquote&gt;" vertex="1">
           <mxGeometry height="60" width="182" x="50" y="665" as="geometry" />
         </mxCell>
       </root>
